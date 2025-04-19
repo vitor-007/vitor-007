@@ -1,9 +1,9 @@
-## Hello, I'm Vitor Reina
+## 📊 Minhas Estatísticas no GitHub
 
-<div align="left">
-  <a href="https://github.com/vitor-007">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitor-007&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-007&theme=dark&hide_border=true&&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+<div align="center">
+  <a href="https://github.com/marcoscalera">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vitor-007&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-007&layout=compact&langs_count=7&theme=dark&custom_title=Tecnologias"/>
   </a>
 </div>
 
