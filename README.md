@@ -12,7 +12,7 @@
   </a>
 </div>
 
----
+
 
 ## 💻 Linguagens
 
@@ -25,7 +25,7 @@
   <img align="center" alt="SQL Server" title="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>
 </div>
 
----
+
 
 ## 🌐 Contatos
 
