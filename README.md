@@ -33,7 +33,8 @@
   <a href="https://www.linkedin.com/in/vitor-reina-100292300/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
- <a href="mailto:vhg2reina@gmail.com?subject=Contato%20via%20site&body=Olá%20Vitor,%20gostaria%20de%20falar%20com%20você.">
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vhg2reina@gmail.com&su=Contato%20via%20site&body=Olá%20Vitor,%20quero%20falar%20com%20você." target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
+
 </div>
