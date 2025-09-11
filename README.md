@@ -1,11 +1,11 @@
-<h1 align="center">Olá! 👋 Me chamo Vitor Reina</h1>
-<p align="center">🎓 Estudante de Desenvolvimento de Software Multiplataforma
+<h1 align="rigth">Olá! 👋 Me chamo Vitor Reina</h1>
+<p align="rigth">🎓 Estudante de Desenvolvimento de Software Multiplataforma
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
+<div align="rigth">
   <a href="https://github.com/marcoscalera">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-007&layout=compact&langs_count=7&theme=dark&custom_title=Tecnologias"/>
   </a>
