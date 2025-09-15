@@ -1,5 +1,5 @@
-<h1 align="rigth">Olá! 👋 Me chamo Vitor Reina</h1>
-<p align="rigth">🎓 Estudante de Desenvolvimento de Software Multiplataforma
+<h1 align="rigth">Hello! 👋 My name is Vitor Reina</h1>
+<p align="rigth">🎓 Multiplatform Software Development student
 
 ---
 
