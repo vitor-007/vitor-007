@@ -8,6 +8,7 @@
 <div align="rigth">
   <a href="https://github.com/marcoscalera">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-007&layout=compact&langs_count=7&theme=dark&custom_title=Tecnologias"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=marcoscalera&show_icons=true&theme=dark" height="160"/>
   </a>
 </div>
 
