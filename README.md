@@ -22,8 +22,8 @@
   <img align="center" alt="JavaScript" title="JavaScript" src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
   <img align="center" alt="TypeScript" title="TypeScript" src="https://skillicons.dev/icons?i=ts" width="40" height="40"/>
   <img align="center" alt="Angular" title="Angular" src="https://skillicons.dev/icons?i=angular" width="40" height="40"/>
-  <img align="center" alt="Git" title="Git" src="https://skillicons.dev/icons?i=git"  width="40" height="40"/>
   <img align="center" alt="React" title="React" src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
+  <img align="center" alt="Git" title="Git" src="https://skillicons.dev/icons?i=git"  width="40" height="40"/>
   <img align="center" alt="Firebase" title="Firebase" src="https://skillicons.dev/icons?i=firebase" width="40" height="40"/>
   <img align="center" alt="SQL Server" title="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>
 </div>
