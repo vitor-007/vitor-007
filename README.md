@@ -17,13 +17,15 @@
 ## 💻 Tecnologias 
 
 <div align="left" valign="top">
-  <img align="center" alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
-  <img align="center" alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img align="center" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img align="center" alt="TypeScript" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img align="center" alt="Angular" title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
-  <img align="center" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img align="center" alt="SQL Server" title="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40"            height="40"/>
+  <img align="center" alt="HTML5" title="HTML5" src="https://skillicons.dev/icons?i=html" width="40" height="40"/> 
+  <img align="center" alt="CSS3" title="CSS3" src="https://skillicons.dev/icons?i=css" width="40" height="40"/>
+  <img align="center" alt="JavaScript" title="JavaScript" src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
+  <img align="center" alt="TypeScript" title="TypeScript" src="https://skillicons.dev/icons?i=ts" width="40" height="40"/>
+  <img align="center" alt="Angular" title="Angular" src="https://skillicons.dev/icons?i=angular" width="40" height="40"/>
+  <img align="center" alt="Git" title="Git" src="https://skillicons.dev/icons?i=git"  width="40" height="40"/>
+  <img align="center" alt="React" title="React" src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
+  <img align="center" alt="Firebase" title="Firebase" src="https://skillicons.dev/icons?i=firebase" width="40" height="40"/>
+  <img align="center" alt="SQL Server" title="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>
 </div>
 
 
