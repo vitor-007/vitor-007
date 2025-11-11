@@ -1,4 +1,4 @@
-<h1 align="rigth">Hello! 👋 My name is Vitor Reina</h1>
+<h1 align="center">Hello! 👋 My name is Vitor Reina</h1>
 <p align="rigth">🎓 Multiplatform Software Development student
 
 ---
