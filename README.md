@@ -3,7 +3,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="rigth">
   <a href="https://github.com/marcoscalera">
@@ -14,7 +14,7 @@
 
 
 
-## 💻 Tecnologias 
+## 💻 Technologies 
 
 <div align="left" valign="top">
   <img align="center" alt="HTML5" title="HTML5" src="https://skillicons.dev/icons?i=html" width="40" height="40"/> 
@@ -30,7 +30,7 @@
 
 
 
-## 🌐 Contatos
+## 🌐 Contacts
 
 <div align="left">
   <a href="https://www.linkedin.com/in/vitor-reina-100292300/" target="_blank">
