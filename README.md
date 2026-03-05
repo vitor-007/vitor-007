@@ -3,17 +3,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="rigth">
-  <a href="https://github.com/marcoscalera">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-007&layout=compact&langs_count=7&theme=dark&custom_title=Tecnologias"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=vitor-007&show_icons=true&theme=dark" height="160"/>
-  </a>
-</div>
-
-
-
 ## 💻 Technologies 
 
 <div align="left" valign="top">
