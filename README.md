@@ -1,33 +1,35 @@
 <h1 align="center">Hello! 👋 My name is Vitor Reina</h1>
-<p align="rigth">🎓 Multiplatform Software Development student
+
+<p align="center">
+  🎓 Multiplatform Software Development student
+</p>
 
 ---
 
-## 💻 Technologies 
+## 💻 Technologies
 
-<div align="left" valign="top">
-  <img align="center" alt="HTML5" title="HTML5" src="https://skillicons.dev/icons?i=html" width="40" height="40"/> 
-  <img align="center" alt="CSS3" title="CSS3" src="https://skillicons.dev/icons?i=css" width="40" height="40"/>
-  <img align="center" alt="JavaScript" title="JavaScript" src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
-  <img align="center" alt="TypeScript" title="TypeScript" src="https://skillicons.dev/icons?i=ts" width="40" height="40"/>
-  <img align="center" alt="Angular" title="Angular" src="https://skillicons.dev/icons?i=angular" width="40" height="40"/>
-  <img align="center" alt="React" title="React" src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
-  <img align="center" alt="Git" title="Git" src="https://skillicons.dev/icons?i=git"  width="40" height="40"/>
-  <img align="center" alt="Firebase" title="Firebase" src="https://skillicons.dev/icons?i=firebase" width="40" height="40"/>
-  <img align="center" alt="SQL Server" title="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+</p>
 
-
+---
 
 ## 🌐 Contacts
 
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/vitor-reina-100292300/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vhg2reina@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
 
-
-</div>
+  <a href="mailto:vhg2reina@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
